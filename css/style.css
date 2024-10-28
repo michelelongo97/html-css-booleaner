@@ -15,3 +15,24 @@ header{
 .captions{
     font-size: 14px;
 }
+
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.cell-bigger{
+    width: 60%;
+}
+
+.odd{
+    background-color: #B1E5F2;
+}
+
+.even{
+    background-color: white;
+}
+
+tr{
+    text-align: left;
+}
