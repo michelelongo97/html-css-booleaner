@@ -1,7 +1,13 @@
 header{
     background-image: url(../img/pattern.png);
     background-color: #4EA0FF;
-    height: 200px;
+    height: 50px;
+    background-size: 20%;
+}
+
+.logo{
+    width: 100px;
+    height: 25px;
 }
 
 .author-credit{
